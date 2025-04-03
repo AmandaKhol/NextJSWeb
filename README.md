@@ -1,8 +1,8 @@
-# Portfolio website
+# Restaurante website (NextJS)
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-The intention of this project is to learn and practice NextJS
+This project intends to learn and practice NextJS as an SSR.
 
 ## **Technologies**
 
@@ -13,7 +13,15 @@ The intention of this project is to learn and practice NextJS
 
 ## Getting Started
 
-First, run the development server:
+Be sure you are using at least the Node v.18.18.0
+
+Install the dependencies:
+
+```bash
+npm run install
+```
+
+Once all the dependencies are installed, run the development server:
 
 ```bash
 npm run dev
