@@ -3,7 +3,7 @@ import { foodData } from "../_data/data";
 import Image from "next/image";
 
 type DetailProps = {
-  searchParams: { id: number };
+  searchParams: Promise<{ id: number }>;
 };
 
 export default async function Detail({ searchParams }: DetailProps) {
