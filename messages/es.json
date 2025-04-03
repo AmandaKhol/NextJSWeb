@@ -1,0 +1,30 @@
+{
+  "header": {
+    "link1": "Sobre mi",
+    "link2": "Vegano",
+    "link3": "Vegetariano"
+  },
+  "footer": {
+    "content_1": "Info legal",
+    "content_2": "Contacto",
+    "content_3": "©Amanda Khôl. Todos los derechos reservados"
+  },
+  "detail": {
+    "sold": "agotado",
+    "available": "disponible",
+    "soy": "soja",
+    "gluten": "gluten",
+    "peanuts": "cacahuete",
+    "title": "alérgenos: "
+  },
+  "legal": {
+    "main_title": "Condiciones legales",
+    "title_1": "Derechos de autor",
+    "description_1": "Los contenidos y obras de estas páginas creados por el proveedor están sujetos a derechos de autor. La reproducción, transformación, distribución y cualquier tipo de explotación fuera de los límites de los derechos de autor requieren el consentimiento por escrito del respectivo autor o creador. En la medida en que los contenidos de este sitio no hayan sido creados por el operador, se respetarán los derechos de autor de terceros."
+  },
+  "about": {
+    "salutation": "¡Hola mundo!",
+    "presentation": "Me llamo Amanda y soy desarrolladora web. En este projecto he aprendido algunos conceptos básicos del Framework NextJS. El proyecto está aún en construcción.",
+    "contact": "Cómo contactar conmigo"
+  }
+}

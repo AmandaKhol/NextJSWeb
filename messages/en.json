@@ -1,0 +1,26 @@
+{
+  "header": { "link1": "About", "link2": "Vegan", "link3": "Vegetarian" },
+  "footer": {
+    "content_1": "Legal Info",
+    "content_2": "Contact",
+    "content_3": "©Amanda Khôl. All right reserved"
+  },
+  "detail": {
+    "sold": "sold out",
+    "available": "available",
+    "soy": "soy",
+    "gluten": "gluten",
+    "peanuts": "peanuts",
+    "title": "alergies: "
+  },
+  "legal": {
+    "main_title": "Legal Info",
+    "title_1": "Copyright",
+    "description_1": "The content and works on these pages created by the provider are subject to copyright. Reproduction, transformation, distribution and any kind of exploitation outside the limits of copyright law require the written consent of the respective author or creator. Insofar as the content of this site was not created by the operator, the copyrights of third parties are respected."
+  },
+  "about": {
+    "salutation": "Hello World",
+    "presentation": "My name is Amanda and I am web developer! In this project I learnt some basic concepts about NextJS Framework. This project is still in progress",
+    "contact": "How to contact me"
+  }
+}
