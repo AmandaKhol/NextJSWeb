@@ -22,6 +22,15 @@ const roboto = Roboto({
   subsets: ["latin"],
 });
 
+export async function generateStaticParams() {
+  return [
+    { locale: "es", category: "vegano" },
+    { locale: "es", category: "vegetariano" },
+    { locale: "en", category: "vegan" },
+    { locale: "en", category: "vegetarian" },
+  ];
+}
+
 export default async function LocaleLayout({
   children,
   params,
